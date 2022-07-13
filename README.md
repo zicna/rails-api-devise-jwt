@@ -33,3 +33,12 @@ Things you may want to cover:
 
 ## Testing with Paw
 - checkout `Rails-api-devise-jwt.paw` for testing api with Paw
+
+## How to use to start new rails app with devise and jwt
+
+1. create local copy of starter project: `git clone git@github.com:zicna/rails-api-devise-jwt.git`
+2. create new repo on github
+3. set new remote url where we will push future commits `git remote set-url origin git@github.com:yourname/NewProject.git`
+4. push new project: `git push`
+
+*each new repo will have history of root repo*
